@@ -2,6 +2,10 @@
 
 
 1. [Open ray_large_number_of_workers_in_queue.ipynb](ray_large_number_of_workers_in_queue.ipynb)
+
+Follow this notebook when you have a situation where you need to submit an arbitrarily high number of ray worker tasks
+
+
 Ray has several hard limits:
 
 - `max_in_flight_requests`: limits how many pending submissions the client can buffer.
