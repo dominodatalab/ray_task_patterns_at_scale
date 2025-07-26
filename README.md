@@ -45,7 +45,7 @@ In general avoid actors in favor of functions if:
 
 Use tasks instead when:
 
-= You can express work as pure functions
+- You can express work as pure functions
 - You want fine-grained, massively parallel execution
 - You need dynamic scaling and better memory/resource churn
 
