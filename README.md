@@ -26,4 +26,4 @@ These limits exist to protect the system from task flood.
 | `max_calls_in_flight_per_worker`  | ~1000          | Worker     | Not exposed                       | No          |
 | `gRPC queue limits`               | Internal       | All nodes  | Not configurable via user API     | No          |
 
-1. [Open ray_actor_vs_function.ipynb](ray_actor_vs_function.ipynb)
+2. [Open ray_actor_vs_function.ipynb](ray_actor_vs_function.ipynb)
