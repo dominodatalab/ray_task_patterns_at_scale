@@ -57,3 +57,5 @@ Use actors when:
 - You need in-process coordination, streaming, or long-lived control loops
 
 **When there is high task count, prefer functions**. Actors scale poorly under high submission pressure unless strictly necessary and carefully managed.
+
+3. Ray Design Patterns [document](https://docs.google.com/document/d/11WPELQ2MxLZuTlUL6CKj0KMWDuS0y84GRWv--Q-tUYA/edit?tab=t.0#heading=h.crt5flperkq3)
